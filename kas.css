@@ -1,5 +1,5 @@
 body {
-  background: url('images/sitebackground.jpg');
+  background: url('sitebackground.jpg');
 }
 
 h1 {
@@ -10,4 +10,21 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+}
+.button-book{
+	width: 160px;
+	height: 44px;
+	background: #f2795a;
+	border-radius: 5px;
+	margin: 35px 20px;
+	color: #ffffff;
+	text-align: center;
+	color: #ffffff;
+	font-size: 1.0em;
+	font-family: arial black, sans-serif;
+	border: 0;
+	z-index: 1;
+}
+input[type="button"] {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/250px-Telegram_2019_Logo.svg.png) no-repeat left 51%;
 }
